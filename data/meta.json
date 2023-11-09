@@ -1,0 +1,806 @@
+[
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2021-07-10-my-10-favorite-books-so-far.png",
+    "title": "My 10 favorite books so far! - 2021 edition",
+    "excerpt": "These are the ten books that I found most insightful, thought-provoking, and life-changing.",
+    "public_date": "\nJul 2021\n"
+  },
+  {
+    "image": "",
+    "title": "Douglas Noel Adams",
+    "excerpt": "Do you know who Douglas Adams is? How about George Carlin?",
+    "public_date": "\nAug 2016\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2022-11-21-consuming-apis-responsibly.png",
+    "title": "Consuming APIs responsibly",
+    "excerpt": "Or: Etiquette and table manners for pinging other people's servers.",
+    "public_date": "\nNov 2022\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2022-02-18-creating-article-series-posts-navigation-jekyll-series-navigation.png",
+    "title": "Create a series of posts with navigation in Jekyll",
+    "excerpt": "Add Jekyll posts into a series with series navigation.",
+    "public_date": "\nFeb 2022\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2022-01-25-practical-light-dark-mode-jekyll-bootstrap5-banner.jpg",
+    "title": "A practical guide to light and dark mode in Bootstrap 5 and Jekyll",
+    "excerpt": "Implementing light and dark mode on your Bootstrap 5 + Jekyll website.",
+    "public_date": "\nJan 2022\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2022-01-25-nemo-file-manager-ubuntu-20.04-linux-nautilus-alternative-home.jpg",
+    "title": "Nemo - The Ubuntu file manager you didn\u2019t know you needed",
+    "excerpt": "Celebrate 2022 with a shiny new file manager for Ubuntu!",
+    "public_date": "\nJan 2022\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2022-01-01-announcing-fediverse-to.png",
+    "title": "Announcing Fediverse.to!",
+    "excerpt": "I've been working on a search engine for Fediverse instances!",
+    "public_date": "\nJan 2022\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2021-11-16-easy-pretty-url-redirects-with-jekyll-and-netlify.jpg",
+    "title": "Easy pretty URL redirects with Jekyll and Netlify",
+    "excerpt": "Combine Jekyll and Netlify to create pretty URL redirects as easy as 1-2-3.",
+    "public_date": "\nNov 2021\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2021-11-16-linking-jekyll-pages-back-to-their-git-source-code.jpg",
+    "title": "Linking Jekyll pages back to their Git source code",
+    "excerpt": "Add a link back to the public Git hosting link for any static Jekyll blog.",
+    "public_date": "\nNov 2021\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2021-11-16-optimising-jpg-and-png-images-for-a-jekyll-blog.jpg",
+    "title": "Optimising JPG and PNG images for a Jekyll website",
+    "excerpt": "Use CLI tools to generate resized and optimised thumbnails for articles header images.",
+    "public_date": "\nNov 2021\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2021-11-01-using-lunr-js-to-create-client-side-website-search-index-banner.svg",
+    "title": "Quick and easy client-side JavaScript search with Lunr.js",
+    "excerpt": "Display search results from any JSON data object in the browser using Lunr.js.",
+    "public_date": "\nNov 2021\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2021-10-10-creating-light-and-dark-themes-for-websites-correctly-using-prefers-color-scheme.gif",
+    "title": "Creating light and dark themes for websites the right way using prefers-color-scheme",
+    "excerpt": "Blur the line between desktop and web by letting the OS style your website or webapp.",
+    "public_date": "\nOct 2021\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2021-10-10-make-linux-apps-for-notion-mastodon-webapps-using-nativefier-banner.png",
+    "title": "Make Linux apps for Notion, Mastodon, or any web app using Nativefier",
+    "excerpt": "Notion is an awesome life manager. And Mastodon is great for decentralised internet shenanigans. With Nativefier, I can now enjoy them as apps on Ubuntu 20.04.",
+    "public_date": "\nOct 2021\n"
+  },
+  {
+    "image": "",
+    "title": "Inserting dynamic data into Jekyll static sites using Python or Bash",
+    "excerpt": "Auto-generate Jekyll configuration files with content and avoid creating an API backend.",
+    "public_date": "\nOct 2021\n"
+  },
+  {
+    "image": "",
+    "title": "Introduction to Ansible",
+    "excerpt": "Ansible is the answer to custom scripts and tooling that eventually snowball into a kludge which breaks more things than it fixes.",
+    "public_date": "\nAug 2021\n"
+  },
+  {
+    "image": "",
+    "title": "Introduction to YAML",
+    "excerpt": "What is YAML and why is it about time we started using it?",
+    "public_date": "\nAug 2021\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2016-08-15-introduction-to-jekyll-new-article.png",
+    "title": "Introduction to Jekyll",
+    "excerpt": "Jekyll is a framework for building websites - write your content in Markdown, use HTML/CSS for structure and presentation, and Jekyll compiles it all into static HTML. No servers. No backends. No fuss.",
+    "public_date": "\nAug 2021\n"
+  },
+  {
+    "image": "",
+    "title": "Multi-machine Setup and Configuration with Vagrant",
+    "excerpt": "If you ever need to test an app and a database, did you know you can use Vagrant to bring up multiple testing machines at once? Here's how.",
+    "public_date": "\nAug 2021\n"
+  },
+  {
+    "image": "",
+    "title": "Provisioning with Vagrant",
+    "excerpt": "Ansible works well to provision a Vagrant box with everything installed from the get-go.",
+    "public_date": "\nAug 2021\n"
+  },
+  {
+    "image": "",
+    "title": "Introduction to Vagrant",
+    "excerpt": "Vagrant helps you run other operating systems on your computer, meaning you can build things, test things, and do crazy shit without blowing up your own system.",
+    "public_date": "\nAug 2021\n"
+  },
+  {
+    "image": "",
+    "title": "A Guide to Web Scraping in Python using BeautifulSoup",
+    "excerpt": "Web-scraping is a useful but often neglected technical skill. The BeautifulSoup library in Python makes extracting HTML from web pages easy. Do with that what you will ;)",
+    "public_date": "\nAug 2021\n"
+  },
+  {
+    "image": "",
+    "title": "Using variables in Jekyll to define custom content",
+    "excerpt": "I recently discovered that Jekyll's config.yml can be used to define custom variables for reusing content. I feel like I've been living under a rock all this time. But to err over and over again is human.",
+    "public_date": "\nAug 2021\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2021-07-15-the-evolution-of-ayushsharma-in-many-devices.png",
+    "title": "The evolution of ayushsharma.in: Jekyll, Bootstrap, Netlify, static websites, and responsive design.",
+    "excerpt": "In this article, I'll highlight some ideas for Jekyll collections, blog category pages, responsive web-design, and netlify.toml to make static website maintenance a breeze.",
+    "public_date": "\nJul 2021\n"
+  },
+  {
+    "image": "",
+    "title": "5 key best practices for sane and usable Terraform setups",
+    "excerpt": "These are the top 5 lessons I've learned after 5 years of Terraform-ing.",
+    "public_date": "\nJul 2021\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2021-07-13-cloud-infrastructure-sast-terraform-checkov.svg",
+    "title": "Cloud Infrastructure SAST: Scanning Terraform for security vulnerabilities and non-compliance using Checkov",
+    "excerpt": "In this article I explore Checkov, a static code analysis tool for Terraform.",
+    "public_date": "\nJul 2021\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2021-07-12-terraform-plus-helm-a-match-made-in-heaven-hell-choices.svg",
+    "title": "Terraform + Helm: A match made in heaven/hell?",
+    "excerpt": "I've just discovered that Terraform can deploy Helm Charts as well. But I'm not sure if I like it.",
+    "public_date": "\nJul 2021\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/automating-argocd-with-argocd-deployment.png",
+    "title": "Automating ArgoCD using ArgoCD!",
+    "excerpt": "In this tutorial, I will show you how to automatically create multiple Applications in ArgoCD using ArgoCD!",
+    "public_date": "\nJul 2021\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/getting-started-with-argocd-successful-nginx-deployment.png",
+    "title": "Getting started with ArgoCD",
+    "excerpt": "In this post we meet ArgoCD: a simple pull-based GitOps deployment tool which syncs K8s manifest files with a cluster for easy and no-nonsense deployments.",
+    "public_date": "\nJul 2021\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2020-09-11-creating-ready-to-eat-aws-security-groups-using-terraform-registry-named-groups-and-named-rules.png",
+    "title": "Creating ready-to-use AWS Security Groups using Terraform Registry, Named Groups, and Named Rules",
+    "excerpt": "Create parameterized AWS security groups quickly and consistently with Terraform Registry.",
+    "public_date": "\nSep 2020\n"
+  },
+  {
+    "image": "",
+    "title": "Creating AWS VPCs in 2 minutes with Terraform Registry",
+    "excerpt": "Create parameterized AWS VPCs quickly and consistently with Terraform Registry.",
+    "public_date": "\nSep 2020\n"
+  },
+  {
+    "image": "",
+    "title": "Continuous delivery on GitLab: Pushing Docker images to DockerHub using GitLab Pipelines",
+    "excerpt": "Build and push Docker images to DockerHub using GitLab's Pipelines feature.",
+    "public_date": "\nJun 2020\n"
+  },
+  {
+    "image": "",
+    "title": "Configuring Elasticsearch snapshots using SLM on Google Compute Engine",
+    "excerpt": "A tutorial on how to configure automatic snapshots of Elasticsearch using the in-built Snapshot Lifecycle Manager on Google Compute Engine.",
+    "public_date": "\nJun 2020\n"
+  },
+  {
+    "image": "",
+    "title": "\u200b\u200bWorking From Home and Software Engineering",
+    "excerpt": "Your time and attention is your primary resource, so deploy it wisely.",
+    "public_date": "\nJun 2020\n"
+  },
+  {
+    "image": "",
+    "title": "\u200b\u200bThe Virus \u200b\ud83d\ude37\u200b and the Cloud \u200b\u26c5\u200b: Tips on AWS cost-saving in these weird \u200b\ud83e\udd2f\u200b times",
+    "excerpt": "2020 is the year startups are trying to save aggresively on cloud spend. I list down some key learnings based on my experience.",
+    "public_date": "\nApr 2020\n"
+  },
+  {
+    "image": "",
+    "title": "Replicating Bitbucket Pipelines on your laptop for local debugging",
+    "excerpt": "I love Bitbucket Pipelines, and debugging them on your laptop is even easier thanks to Docker containers. I'll show you how to debug Serverless deployments and diagnose broken builds.",
+    "public_date": "\nMar 2020\n"
+  },
+  {
+    "image": "",
+    "title": "Cloning another Bitbucket repository in Bitbucket Pipelines",
+    "excerpt": "I'll show you how to allow one Bitbucket repo to clone another during a Pipeline build.",
+    "public_date": "\nFeb 2020\n"
+  },
+  {
+    "image": "",
+    "title": "Deploying git submodules in Bitbucket Pipelines",
+    "excerpt": "Git submodules makes it easy have repos for common dependencies, but how to actually clone them in your Bitbucket Pipeline?",
+    "public_date": "\nFeb 2020\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2019-08-30-automating-ecr-container-builds-using-bitbucket-pipelines-ecr-overview.png",
+    "title": "Automating Amazon Elastic Container (ECR) container builds using Bitbucket Pipelines",
+    "excerpt": "I'll show you how to build a Docker image in a Pipeline and push it to a container registry, in this case Amazon ECR.",
+    "public_date": "\nAug 2019\n"
+  },
+  {
+    "image": "",
+    "title": "Taming AWS costs with Cost and Usage Reports + AWS Athena",
+    "excerpt": "AWS Cost & Usage Reports with AWS Athena are vital for understanding cloud spend. I'll show you some handy Athena queries to break things down.",
+    "public_date": "\nAug 2019\n"
+  },
+  {
+    "image": "",
+    "title": "Exporting Bitucket repositories and Pipelines with Python",
+    "excerpt": "Bitbucket doesn't offer a dashboard yet, or an easy way to fetch information for all your repos and Pipelines. So I wrote a handy Python script for the job. It's great for configuring alerts or building near-real-time dashboards!",
+    "public_date": "\nJun 2019\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/rediscovering-logo-python-turtle-sierpinski-triangle.jpg",
+    "title": "Rediscovering Logo with Bob the turtle",
+    "excerpt": "My very first programming language was Logo! I can still remember guiding that fuzzy little on-screen turtle to draw simple and complex shapes. So I found the Logo Python module and took a walk down memory lane.",
+    "public_date": "\nJun 2019\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/bitbucket-pipelines-serverless-framework.png",
+    "title": "Automating Serverless framework deployments using Bitbucket Pipelines",
+    "excerpt": "The open-source Serverless framework makes it easy to build and deploy Lambda stacks. I'll walk you through deploying Serverless apps automatically using Pipelines.",
+    "public_date": "\nMay 2019\n"
+  },
+  {
+    "image": "",
+    "title": "Automating AWS Lambda deployments using Bitbucket Pipelines and Bitbucket Pipes",
+    "excerpt": "Pipes is another great Continuous Delivery feature in Bitbucket: pre-built, ready-to-use, and parameterized deployment jobs.",
+    "public_date": "\nMay 2019\n"
+  },
+  {
+    "image": "",
+    "title": "Algorithms in Python: Exchange Sorts",
+    "excerpt": "Notes on implementing the basic Exchange sort algorithms in Python.",
+    "public_date": "\nMar 2019\n"
+  },
+  {
+    "image": "",
+    "title": "The Three Ways of DevOps: Notes on The Phoenix Project",
+    "excerpt": "The Phoenix Project is one of the most approachable books for DevOps available today. Highly recommended, especially if you don't already know Conway's Law.",
+    "public_date": "\nJan 2019\n"
+  },
+  {
+    "image": "",
+    "title": "Working with NumPy in Python",
+    "excerpt": "My Udacity Python Nanodegree introduced using NumPy to handle large arrays and datasets in Python. I put some notes togther for referencing later.",
+    "public_date": "\nOct 2018\n"
+  },
+  {
+    "image": "",
+    "title": "Data Types in Python",
+    "excerpt": "Some quick notes describing the basic data types in Python3 and their features.",
+    "public_date": "\nSep 2018\n"
+  },
+  {
+    "image": "",
+    "title": "Dockerizing Tweet-Toot: A practical guide to deploying your app using Docker",
+    "excerpt": "Tweet-Toot is my personal project, a Twitter relay for the Mastodon social network. I recently dockerized the setup and put these notes together to explain the process.",
+    "public_date": "\nSep 2018\n"
+  },
+  {
+    "image": "",
+    "title": "SublimeText 3 setup for Jekyll development",
+    "excerpt": "SublimeText has some cool plugins for setting up a basic Jekyll development environment. Take a look.",
+    "public_date": "\nSep 2018\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/gartner-magic-quadrant-for-cloud-infrastructure-as-a-service-worldwide-2018.png",
+    "title": "Gartner's Magic Quadrants: A summary of cloud Infrastructure-as-a-Service providers over the last 5 years",
+    "excerpt": "Gartner's Magic Quadrants was one of the the first industry reports I read which covered where the cloud vendor's were headed and what their strengths and weaknesses were. I took some time to consolidate the Gartner findings over the last 5 years for comparison.",
+    "public_date": "\nSep 2018\n"
+  },
+  {
+    "image": "",
+    "title": "Tweet-Toot: Building a bot for Mastodon using Python",
+    "excerpt": "I joined the Mastodon social network in 2016 and felt a need for building a Twitter relay. We all left the birdsite for many reasons but not the people we met. So this project is a way to bring some of them over to Mastodon, in practice if not in spirit.",
+    "public_date": "\nSep 2018\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/cloudflare-stackpath-notes.ayushsharma.in-stackpath_ttfb.png",
+    "title": "Moving from CloudFlare to StackPath",
+    "excerpt": "I love Cloudflare, but after facing some issues with TTFB I decided to move to StackPath, which proved to be a lot faster and feature-rich.",
+    "public_date": "\nJul 2018\n"
+  },
+  {
+    "image": "",
+    "title": "Understanding vendor lock-in and breaking the cycle",
+    "excerpt": "I went through one of Gartner's reports, and it says the key to breaking vendor lock-in is to commit fully to a single technology vendor, be it a cloud software provider, a social network, or our favorite sharing app. It seems controversial on the surface, but I wanted to jot down some quick notes. Maybe the approach is worth experimenting with?",
+    "public_date": "\nJul 2018\n"
+  },
+  {
+    "image": "",
+    "title": "Rolling clusters for deployment with Terraform",
+    "excerpt": "Terraform enables more than infrastructure provisioning, you can even use it for deployments. Combine it with Packer, and you can have a very powerful immutable rolling deployment pipeline.",
+    "public_date": "\nJul 2018\n"
+  },
+  {
+    "image": "",
+    "title": "Working with Terraform Modules",
+    "excerpt": "Terraform's Modules feature allows quickly building re-usable infrastructure templates to provision cloud environments repeatably. These notes will help set up a basic application for high-availability.",
+    "public_date": "\nJul 2018\n"
+  },
+  {
+    "image": "",
+    "title": "Getting started with Terraform",
+    "excerpt": "A basic walkthrough of Terraform, the open-source, cloud-agnostic IaC tool by HashiCorp, the makers of Vagrant.",
+    "public_date": "\nOct 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Upgrading to HTTP/2",
+    "excerpt": "It's about time we all move our web properties to HTTP/2. I list down some gotchas for those looking to migrate.",
+    "public_date": "\nSep 2017\n"
+  },
+  {
+    "image": "",
+    "title": "HTTP security headers: Referrer-Policy",
+    "excerpt": "The web is a collection of inter-connected pages. This means chances are good that someone landing on your website is coming from another one, and when they leave your website, they take a lot of identifiable information with them. HTTP/2 allows you to control what happens to the referrer information when users leave your website.",
+    "public_date": "\nSep 2017\n"
+  },
+  {
+    "image": "",
+    "title": "HTTP security headers: X-Content-Type-Options",
+    "excerpt": "HTTP/2 introduced a new feature which basically just turns off an old default feature: the browser's hankering for figuring out the content type of a resource. Why and how should we turn it off?",
+    "public_date": "\nSep 2017\n"
+  },
+  {
+    "image": "",
+    "title": "HTTP security headers: X-Frame-Options",
+    "excerpt": "Inline-frames enable very basic phishing attacks. You can just include a bank's main website within your own website and lure the user to handover their passwords. HTTP2/ comes with built-in protection against this kind of threat.",
+    "public_date": "\nSep 2017\n"
+  },
+  {
+    "image": "",
+    "title": "HTTP security headers: HTTP-Strict-Transport-Security",
+    "excerpt": "HSTS is a security feature which prevents users from accessing your website over non-secure HTTP. It comes with HTTP/2, is easy to turn on, but very hard to turn off. Here's the why and how.",
+    "public_date": "\nSep 2017\n"
+  },
+  {
+    "image": "",
+    "title": "HTTP security headers: X-XSS-Protection",
+    "excerpt": "HTTP/2 comes with built-in protection for XSS. Here's what it does and how to turn it on.",
+    "public_date": "\nSep 2017\n"
+  },
+  {
+    "image": "",
+    "title": "HTTP security headers: Content-Security-Policy",
+    "excerpt": "HTTP/2's CSP let's you define a white-list of what's allowed and what's blocked on your website. This lets browsers block third-party trackers which try to annoy/harm your users. Here's the why and how.",
+    "public_date": "\nSep 2017\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/disqus-comments-ad-tracking-domains.jpg",
+    "title": "I'm killing Disqus comments on my blog. Here's why.",
+    "excerpt": "I added the Disqus commenting platform to my blog some time ago. And then I found out that it was loading WAY TOO MANY tracking cookies inline and profiling my website users. This is how you build Orwellian software. And shitty software.",
+    "public_date": "\nSep 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Posting messages to Slack using incoming webhooks and Python3 Requests API",
+    "excerpt": "Slack has become a favorite of DevOps/SRE teams across the globe. It's a very easy-to-use and programmatic messaging platform. Here's the quick and easy process to posting messages to your Slack group from Python.",
+    "public_date": "\nSep 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Using Packer and Ansible to create immutable servers, deploying code, and recycling instances",
+    "excerpt": "Packer is an amazing golden image builder. Ansible is a great deployment tool. So let's use them together!",
+    "public_date": "\nSep 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Getting started with Packer",
+    "excerpt": "Packer. Basically Docker for whole VMs. Another great tool by HashiCorp, this one modernises an old formula but retains the simplicity. Building immutable servers was never this easy.",
+    "public_date": "\nSep 2017\n"
+  },
+  {
+    "image": "",
+    "title": "The different ways I've deployed code over the years: the road to Immutable Servers",
+    "excerpt": "I took a walk down memory lane to try and figure out how much my daily work has changed. The concepts are still the same, but the tools have become bigger, because our needs have shifted dramatically over the years.",
+    "public_date": "\nSep 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Testing AWS Elastic Load Balancer health check endpoints with Python",
+    "excerpt": "A quick script for ad-hoc health-checking of load balancer instances.",
+    "public_date": "\nSep 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Complete Nginx Monitoring with Collectd and InfluxDB",
+    "excerpt": "I recently discovered InfluxDB as a great write-heavy database for storing metrics. These are my notes on monitoring the golden signals in Nginx using Collectd and InfluxDB.",
+    "public_date": "\nAug 2017\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/bitbucket-pipelines-successful-deployment-screen.jpg",
+    "title": "Deploying Jekyll blog automatically using Bitbucket Pipelines",
+    "excerpt": "Because why not? Here's how to build your Jekyll website and deploy it to a VM of your choice.",
+    "public_date": "\nAug 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Migrating MySQL database tables to InfluxDB",
+    "excerpt": "If you ever need to migrate a MySQL database to InfluxDB, say if you were using MySQL as a metrics database because you were too busy not knowing Influx even existed, then this handy Python script can do the job and take care of schema migrations too.",
+    "public_date": "\nAug 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Backing up InfluxDB databases to S3",
+    "excerpt": "A handy bash script to backup your InfluxDB database to AWS S3; great for cron jobs.",
+    "public_date": "\nAug 2017\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/grafana-user-cpu-percentage-and-free-memory-dashboard.jpg",
+    "title": "Setting Up Grafana to use Collectd and InfluxDB",
+    "excerpt": "Grafana provides out-of-the-box support for InfluxDB, so visualising the metrics you're collecting using Collectd, etc., is straightforward. Here's how to do it.",
+    "public_date": "\nAug 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Setting up Collectd and InfluxDB on Mac OS X",
+    "excerpt": "A quick copy-paste-able process for installing Collectd and InfluxDB on your Mac for some local testing.",
+    "public_date": "\nAug 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Getting Started with time-series data using InfluxDB",
+    "excerpt": "A quick comparison of relational vs time-series databases, followed by a brief hands-on tutorial for InfluxDB on a local Mac OS.",
+    "public_date": "\nAug 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Getting started with server metrics collection with Collectd",
+    "excerpt": "Collectd, a C-based daemon, is a fast and lightweight metrics shipper.",
+    "public_date": "\nAug 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Retry Strategies for Transient Failures",
+    "excerpt": "A very basic reality of computer networking is that... it fails. And when it does, there are ways to retry your connections to make life easier for you and other clients as well.",
+    "public_date": "\nAug 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Using Route 53 as a Load Balancer",
+    "excerpt": "AWS Elastic load balancers do their job well, but they can get pricey. So naturally I tried using Route53 for load balancing traffic. It was a lot harder than I thought, and while this experiment didn't succeed, I'm noting my approach here for better luck next time.",
+    "public_date": "\nAug 2017\n"
+  },
+  {
+    "image": "",
+    "title": "MySQL Database backups to S3",
+    "excerpt": "A handy bash script to backup all MySQL databases to AWS S3.",
+    "public_date": "\nAug 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Mastodon Users and Instances in Sqlite3 Using Python",
+    "excerpt": "The title really says it all: exporting data from JSON and ingesting into Sqlite3.",
+    "public_date": "\nApr 2017\n"
+  },
+  {
+    "image": "",
+    "title": "The Ultimate Guide to Using Mail in Linux",
+    "excerpt": "I installed mutt to send email from the command-line. It's fast and the CLI switches are memorable. Worth a look if you use the CLI for sending emails a lot.",
+    "public_date": "\nApr 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Fixing ValueError('unknown locale: %s' % localename) in Python",
+    "excerpt": "You get 3 guesses for what the solution could be...",
+    "public_date": "\nMar 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Getting Started with Xinetd",
+    "excerpt": "Xinetd is a light-weight and straightfoward HTTP server. Not as powerful as Nginx, but it's great for simple things like configuring health checks.",
+    "public_date": "\nMar 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Getting City, Country and ISP of an IP address using Maxmind GeoIP",
+    "excerpt": "The Maxmind GeoIP database is useful for looking up the country and ISP information for an IP address.",
+    "public_date": "\nMar 2017\n"
+  },
+  {
+    "image": "",
+    "title": "AWS, GCS, Azure and Digital Ocean incidents by service in 2016",
+    "excerpt": "I pulled the data for technology incidents for the major cloud services. The findings were pretty interesting.",
+    "public_date": "\nMar 2017\n"
+  },
+  {
+    "image": "",
+    "title": "I Have Something to Say II",
+    "excerpt": "These have been the confessions of a firefighter who ignored the smoke.",
+    "public_date": "\nMar 2017\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/aws-route-53-configuration-using-geo-weighted-and-fail-over-routeing.jpg",
+    "title": "Using Weighted, Geo and Fail-over Routeing in Route 53",
+    "excerpt": "At work, one of my recent projects involved setting up a multi-region failover with weighted-routing support. Thankfully, Route53 has all of these built-in. Here's how to do it.",
+    "public_date": "\nMar 2017\n"
+  },
+  {
+    "image": "",
+    "title": "You still might need a staging server in 2017",
+    "excerpt": "It's 2017 and the cloud has matured by leaps and bounds. So do we still need staging servers?",
+    "public_date": "\nMar 2017\n"
+  },
+  {
+    "image": "",
+    "title": "AWS, GCS, Azure and Digital Ocean incidents in 2016",
+    "excerpt": "I pulled the data for technology incidents on the major cloud platforms. The findings were pretty interesting.",
+    "public_date": "\nMar 2017\n"
+  },
+  {
+    "image": "",
+    "title": "I Have Something to Say",
+    "excerpt": "Ten years from now, if or when I am in another job, no one is going to care whether I ran my production servers with my heart and soul. They will care if I saved money, they will care if I ran it efficiently, but you can do those things while still compromising your values.",
+    "public_date": "\nMar 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Connecting VPCs in 2 AWS Regions (Site-to-site VPN)",
+    "excerpt": "A step-by-step guide for connecting 2 AWS VPSs using self-hosted StrongSwan VPNs.",
+    "public_date": "\nFeb 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Installing PHP 7 FPM + MySQL 5.7 + Nginx 1.10 on Ubuntu 16.04",
+    "excerpt": "These are instructions for installing PHP7, MySQL 5.7 and Nginx 1.10 on Ubuntu 16.04. Very copy-paste-able.",
+    "public_date": "\nFeb 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Working with Logical Volume Manager (LVM)",
+    "excerpt": "Some notes on Logical Volume Manager. What it is, why it is, and how to use it.",
+    "public_date": "\nFeb 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Fiddling with Logrotate",
+    "excerpt": "Logrotate is one of those built-in Linux things that we don't use often enough. Rotating logs, archiving them to S3, pushing them to some remote server/endpoint, etc. It's all doable with Logrotate.",
+    "public_date": "\nJan 2017\n"
+  },
+  {
+    "image": "",
+    "title": "AWS Route 53 Notes",
+    "excerpt": "Route53: what, why, how, why not.",
+    "public_date": "\nJan 2017\n"
+  },
+  {
+    "image": "",
+    "title": "AWS EBS Types Read/Write Benchmarks",
+    "excerpt": "I ran hdparm and dd on GP2, PIOPS, SC1, ST1, and Magnetic EBS volumes. Check out the results.",
+    "public_date": "\nJan 2017\n"
+  },
+  {
+    "image": "",
+    "title": "Logging AWS spot instance termination",
+    "excerpt": "AWS spot instances provide 90% savings over on-demand servers. The downside? AWS can yank them whenever they want and you have 2 minutes to back things up. How do you know when the starting pistol fires?",
+    "public_date": "\nOct 2016\n"
+  },
+  {
+    "image": "",
+    "title": "Decompressing request using GZIP with Nginx",
+    "excerpt": "If you're using a Lua module with Nginx, then decompressing GZIPped data requires some extra handling.",
+    "public_date": "\nOct 2016\n"
+  },
+  {
+    "image": "",
+    "title": "Compressing output using GZIP with PHP 5.3",
+    "excerpt": "It's pretty hard to compress output with GZIP in PHP 5.3, but in case you ever need to, here's how.",
+    "public_date": "\nOct 2016\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/working-of-a-load-balancer.jpg",
+    "title": "Introduction to Load-balancing with Nginx",
+    "excerpt": "I'll explore the basics of self-hosted load-balancing with Nginx using a convenient testing setup using Vagrant.",
+    "public_date": "\nAug 2016\n"
+  },
+  {
+    "image": "",
+    "title": "Reading JWT token in Phalcon",
+    "excerpt": "Here's how to read a response JSON web token in PHP Phalcon.",
+    "public_date": "\nAug 2016\n"
+  },
+  {
+    "image": "",
+    "title": "Setting Custom 404 Controller in Phalcon",
+    "excerpt": "After CodeIgniter, Phalcon was the second PHP framework that I used. Blazingly fast and easy-to-use, one of the first things I did was create a custom 404 response controller.",
+    "public_date": "\nAug 2016\n"
+  },
+  {
+    "image": "",
+    "title": "DNS Record Types",
+    "excerpt": "A quick guide to the different DNS record types.",
+    "public_date": "\nAug 2016\n"
+  },
+  {
+    "image": "",
+    "title": "Securing Nginx with Let's Encrypt Free SSL Certificate",
+    "excerpt": "Let's Encrypt is the self-hosted, industry-standard method of generating SSL certificates for your applications. If you're still paying for SSL certificates you're doing it wrong.",
+    "public_date": "\nAug 2016\n"
+  },
+  {
+    "image": "",
+    "title": "Vertical Scaling vs Horizontal Scaling",
+    "excerpt": "The differences between vertical and horizontal scaling may be simple, but they're critical to using cloud technologies effectively.",
+    "public_date": "\nAug 2016\n"
+  },
+  {
+    "image": "",
+    "title": "Essential VIM Keyboard Shortcuts",
+    "excerpt": "A quick guide of essential VIM shortcuts.",
+    "public_date": "\nAug 2016\n"
+  },
+  {
+    "image": "",
+    "title": "Notes on AWS SQS",
+    "excerpt": "AWS SQS: what, why, how, why not.",
+    "public_date": "\nAug 2016\n"
+  },
+  {
+    "image": "",
+    "title": "MySQL Physical Backup with Innobackupex",
+    "excerpt": "Innobackupex, part of Percona Xtrabackup, can perform physical backups of your MySQL databases.",
+    "public_date": "\nAug 2016\n"
+  },
+  {
+    "image": "",
+    "title": "Introduction to MySQL Partitioning",
+    "excerpt": "MySQL partitioning basics: what, why, and how.",
+    "public_date": "\nAug 2016\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/fluentd-architecture.jpg",
+    "title": "Introduction to Fluentd",
+    "excerpt": "The legacy logging infrastructure we have to deal with today was designed for humans and not machines, so a lot of effort is wasted trying to make backend systems understand log data.",
+    "public_date": "\nAug 2016\n"
+  },
+  {
+    "image": "",
+    "title": "NANO Keyboard Shortcuts",
+    "excerpt": "A quick reference of NANO shortcuts.",
+    "public_date": "\nAug 2016\n"
+  },
+  {
+    "image": "",
+    "title": "JSON Web Tokens",
+    "excerpt": "The following document assesses the possibility of using JWT (pronounced \"jot\") as a token exchange mechanism for APIs.",
+    "public_date": "\nAug 2016\n"
+  },
+  {
+    "image": "",
+    "title": "Hello @World",
+    "excerpt": "Hello, World, you little blue thing...",
+    "public_date": "\nAug 2016\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2009-06-08-rise-of-the-argonauts-review.jpg",
+    "title": "Rise of the Argonauts review",
+    "excerpt": "Stunning level design, innovative combat system, and beautiful character models make this game worth your time and money.",
+    "public_date": "\nJun 2009\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2005-07-18-a-guide-to-better-town-management-in-caesar-iii.jpg",
+    "title": "A guide to better town management in Caesar III",
+    "excerpt": "Caesar III can be challenging, even more so if your town is not productive.",
+    "public_date": "\nJul 2005\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2005-07-01-metal-fatigue-review.jpg",
+    "title": "Metal Fatigue review",
+    "excerpt": "A review of Metal Fatigue, the last great Mech game with land-based, underground, and orbital combat!",
+    "public_date": "\nJul 2005\n"
+  },
+  {
+    "image": "",
+    "title": "Command and Conquer: Red Alert 2 review",
+    "excerpt": "A review of Command and Conquer: Red Alert 2, one of the best RTS games of all time.",
+    "public_date": "\nJul 2005\n"
+  },
+  {
+    "image": "",
+    "title": "Top 10 tips for Command and Conquer: Red Alert 2!",
+    "excerpt": "Having trouble with Command and Conquer: Red Alert 2? Here are a few basic beginner things you should remember while playing.",
+    "public_date": "\nJun 2005\n"
+  },
+  {
+    "image": "",
+    "title": "Command and Conquer: Red Alert 2 - Red Revolution walkthrough",
+    "excerpt": "A walkthrough of Command and Conquer: Red Alert 2's penultimate mission Red Revolution.",
+    "public_date": "\nJun 2005\n"
+  },
+  {
+    "image": "",
+    "title": "Black and White tips and editing the game",
+    "excerpt": "A few handy tips for the game, and a brief tutorial on how to edit the game.",
+    "public_date": "\nJun 2005\n"
+  },
+  {
+    "image": "",
+    "title": "Command and Conquer: Red Alert 2 - Chronostorm walkthrough",
+    "excerpt": "A walkthrough of Command and Conquer: Red Alert 2's final Allied mission Chronostorm.",
+    "public_date": "\nJun 2005\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2022-02-18-creating-article-series-posts-navigation-jekyll-series-navigation.png",
+    "title": "Create a series of posts with navigation in Jekyll",
+    "excerpt": "Add Jekyll posts into a series with series navigation.",
+    "public_date": "\nFeb 2022\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2022-01-25-practical-light-dark-mode-jekyll-bootstrap5-banner.jpg",
+    "title": "A practical guide to light and dark mode in Bootstrap 5 and Jekyll",
+    "excerpt": "Implementing light and dark mode on your Bootstrap 5 + Jekyll website.",
+    "public_date": "\nJan 2022\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2021-11-16-easy-pretty-url-redirects-with-jekyll-and-netlify.jpg",
+    "title": "Easy pretty URL redirects with Jekyll and Netlify",
+    "excerpt": "Combine Jekyll and Netlify to create pretty URL redirects as easy as 1-2-3.",
+    "public_date": "\nNov 2021\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2021-11-16-linking-jekyll-pages-back-to-their-git-source-code.jpg",
+    "title": "Linking Jekyll pages back to their Git source code",
+    "excerpt": "Add a link back to the public Git hosting link for any static Jekyll blog.",
+    "public_date": "\nNov 2021\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2021-11-16-optimising-jpg-and-png-images-for-a-jekyll-blog.jpg",
+    "title": "Optimising JPG and PNG images for a Jekyll website",
+    "excerpt": "Use CLI tools to generate resized and optimised thumbnails for articles header images.",
+    "public_date": "\nNov 2021\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2021-10-10-make-linux-apps-for-notion-mastodon-webapps-using-nativefier-banner.png",
+    "title": "Make Linux apps for Notion, Mastodon, or any web app using Nativefier",
+    "excerpt": "Notion is an awesome life manager. And Mastodon is great for decentralised internet shenanigans. With Nativefier, I can now enjoy them as apps on Ubuntu 20.04.",
+    "public_date": "\nOct 2021\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2016-08-15-introduction-to-jekyll-new-article.png",
+    "title": "Introduction to Jekyll",
+    "excerpt": "Jekyll is a framework for building websites - write your content in Markdown, use HTML/CSS for structure and presentation, and Jekyll compiles it all into static HTML. No servers. No backends. No fuss.",
+    "public_date": "\nAug 2021\n"
+  },
+  {
+    "image": "",
+    "title": "Using variables in Jekyll to define custom content",
+    "excerpt": "I recently discovered that Jekyll's config.yml can be used to define custom variables for reusing content. I feel like I've been living under a rock all this time. But to err over and over again is human.",
+    "public_date": "\nAug 2021\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/2021-07-15-the-evolution-of-ayushsharma-in-many-devices.png",
+    "title": "The evolution of ayushsharma.in: Jekyll, Bootstrap, Netlify, static websites, and responsive design.",
+    "excerpt": "In this article, I'll highlight some ideas for Jekyll collections, blog category pages, responsive web-design, and netlify.toml to make static website maintenance a breeze.",
+    "public_date": "\nJul 2021\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/cloudflare-stackpath-notes.ayushsharma.in-stackpath_ttfb.png",
+    "title": "Moving from CloudFlare to StackPath",
+    "excerpt": "I love Cloudflare, but after facing some issues with TTFB I decided to move to StackPath, which proved to be a lot faster and feature-rich.",
+    "public_date": "\nJul 2018\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/disqus-comments-ad-tracking-domains.jpg",
+    "title": "I'm killing Disqus comments on my blog. Here's why.",
+    "excerpt": "I added the Disqus commenting platform to my blog some time ago. And then I found out that it was loading WAY TOO MANY tracking cookies inline and profiling my website users. This is how you build Orwellian software. And shitty software.",
+    "public_date": "\nSep 2017\n"
+  },
+  {
+    "image": "https://www.ayush.nz/static/images/img-thumbs/bitbucket-pipelines-successful-deployment-screen.jpg",
+    "title": "Deploying Jekyll blog automatically using Bitbucket Pipelines",
+    "excerpt": "Because why not? Here's how to build your Jekyll website and deploy it to a VM of your choice.",
+    "public_date": "\nAug 2017\n"
+  }
+]
